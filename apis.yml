@@ -7,4 +7,9 @@ description: 'Profile for Resideo Technologies in the API Evangelist network. Fo
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/resideo
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/resideo1
 apis: []

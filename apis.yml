@@ -12,4 +12,6 @@ common:
     url: https://github.com/resideo
   - type: LinkedIn
     url: https://www.linkedin.com/company/resideo1
+  - type: Blog
+    url: https://www.resideo.com/news
 apis: []
